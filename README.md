@@ -12,7 +12,8 @@ Builing up on the previous model.
 Forage is a revised platform of InsideSephera. It issues various problem statements and curated tasks from MNCs. I completed first two tasks which was regading the data enquiry and EDA. I iterated upon the Task2 after looking at the solution.
 <br>Site Link: https://www.theforage.com/
 <br>Task Link: https://www.theforage.com/virtual-internships/Tcz8gTtprzAS4xSoK?ref=faFxfiXP3RzFKj7tP
-<br>Submission Link:
+<br>Submission Link: https://github.com/Juhi-agg/30_Days_of_Learning/blob/main/ForageBCG_Task2.ipynb
+
 
 
 
