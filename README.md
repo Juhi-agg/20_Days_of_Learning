@@ -8,3 +8,11 @@ Using MNIST: https://github.com/Juhi-agg/20_Days_of_Learning/blob/main/MNIST_fir
 <h3>Day 2:</h3>
 Builing up on the previous model.
 
+<h3>Day 3:</h3>
+Forage is a revised platform of InsideSephera. It issues various problem statements and curated tasks from MNCs. I completed first two tasks which was regading the data enquiry and EDA. I iterated upon the Task2 after looking at the solution.
+<br>Site Link: https://www.theforage.com/
+<br>Task Link: https://www.theforage.com/virtual-internships/Tcz8gTtprzAS4xSoK?ref=faFxfiXP3RzFKj7tP
+<br>Submission Link:
+
+
+
