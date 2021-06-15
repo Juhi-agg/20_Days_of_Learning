@@ -14,6 +14,8 @@ Forage is a revised platform of InsideSephera. It issues various problem stateme
 <br>Task Link: https://www.theforage.com/virtual-internships/Tcz8gTtprzAS4xSoK?ref=faFxfiXP3RzFKj7tP
 <br>Submission Link: https://github.com/Juhi-agg/30_Days_of_Learning/blob/main/ForageBCG_Task2.ipynb
 
-
-
+<h3>Day 5:</h3>
+Having applied ML modeling before on Customer churn data, I decided to work with a ANN model on the same. I picked up a kaggle dataset of Telcom Customer Churn, cleaned the required bit and modelled it. 
+<br>Dataset Link: https://www.kaggle.com/blastchar/telco-customer-churn
+<br>Submission Link: https://github.com/Juhi-agg/30_Days_of_Learning/blob/main/Customer%20Churn%20Prediction.ipynb 
 
