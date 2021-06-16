@@ -16,3 +16,5 @@ Having applied ML modeling before on Customer churn data, I decided to work with
 <br>Dataset Link: https://www.kaggle.com/blastchar/telco-customer-churn
 <br>Submission Link: https://github.com/Juhi-agg/30_Days_of_Learning/blob/main/Customer%20Churn%20Prediction.ipynb 
 
+<h4> Day 6: </h3>
+Moved ahead with task 3, i.e. Feature Selection for BCG Problem Statement undertaken on Day 3. But a lot of skewed data is present. So, would be completing the submission by tomorrow.
