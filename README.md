@@ -1,4 +1,4 @@
-# 30_Days_of_Learning
+# 7_Days_of_Learning
 
 <h3>Day 1 & 2:</h3>
 Image recognisition has been in use lately. The very begining of the journey with DL using widely used MNIST Dataset. The brilliant youtube playlist created by Mr. Dhaval Patel, is really nice and crisp explaination of the concepts. <br>
